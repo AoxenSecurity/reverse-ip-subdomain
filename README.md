@@ -15,8 +15,8 @@ No bruteforce. No wordlists. All data pulled straight from DNSRift's 3 billion+ 
 ## Installation
 
 ```bash
-git clone https://github.com/AoxenSecurity/dnsrift.git
-cd dnsrift
+git clone https://github.com/AoxenSecurity/reverse-ip-subdomain.git
+cd reverse-ip-subdomain
 python dnsrift.py
 ```
 
