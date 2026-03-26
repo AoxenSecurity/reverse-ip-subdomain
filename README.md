@@ -1,5 +1,9 @@
 # DNSRift
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AoxenSecurity/reverse-ip-subdomain/refs/heads/main/screenshot.png?raw=true" alt="DNSRift" width="500">
+</p>
+
 Python CLI tool for Reverse IP lookups & Subdomain enumeration — powered by [dnsrift.net](https://dnsrift.net)
 
 3B+ DNS records. one command. no wordlists needed.
